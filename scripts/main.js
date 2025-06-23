@@ -1,0 +1,1 @@
+console.log("Own webiste script loaded successfully!");
