@@ -7,3 +7,10 @@ h1 {
     color: #1c1e21;
 }
 
+/* Show dropdown on hover */
+@media (min-width: 992px) {
+  .navbar .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+  }
+}
